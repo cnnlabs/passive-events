@@ -17,7 +17,7 @@ Download the [latest](https://github.com/cnnlabs/passive-events/archive/master.z
 
 ### Usage
 
-Include the dist script in <head> or at the top of <body>
+Include the dist script in the html head or at the top of the html body
 
 ```
 <script src="/js/passive-events.js" async><script>
